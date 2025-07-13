@@ -45,9 +45,16 @@
 - 단계별 개선 과정 (1차, 2차)
 - 슬랙봇 연동
 
-### 7️⃣ Agent: GitHub 코드 리뷰 에이전트
+### 7️⃣ Agent: GitHub 코드 리뷰 에이전트Whisper & MCP 활용
 - Model Context Protocol(MCP) 이해
 - MCP를 활용한 코드리뷰 에이전트 생성
+
+### 8️⃣ 영상 요약 시스템: OpenAI 
+- OpenAI Whisper를 활용한 영상 요약
+- Notion MCP 활용으로 영상 요약 내용 저장하기
+- YouTube 영상 요약하기
+
+
 
 ## 📁 저장소 구조
 
@@ -58,7 +65,10 @@ agent-use-cases/
 │   ├── 14.2 파이썬을 활용한 데이터 전처리.ipynb
 │   ├── 16. LangGraph로 구현하는 사내 QnA 봇.ipynb
 │   ├── 17. Workflow -> Agent 전환하기.ipynb
-│   └── 24. MCP를 활용한 코드리뷰 에이전트 생성하기.ipynb
+│   ├── 24. MCP를 활용한 코드리뷰 에이전트 생성하기.ipynb
+│   ├── 25. OpenAI Whisper를 활용한 영상 요약.ipynb
+│   ├── 26. YouTube 영상 요약하기.ipynb
+│   └── 27. Notion MCP 활용으로 영상 요약 내용 저장하기.ipynb
 │
 ├── 🐍 Python 실습 파일
 │   └── 9. n8n API와 Streamlit으로 만드는 이메일 작성 봇.py
