@@ -26,4 +26,6 @@ dependencies = [
     "langchain-mcp-adapters>=0.1.7",
     "psycopg2>=2.9.10",
     "faker>=37.4.0",
+    "pydub>=0.25.1",
+    "yt-dlp>=2025.6.30",
 ]
