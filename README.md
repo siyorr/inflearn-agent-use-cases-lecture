@@ -1,6 +1,6 @@
-# n8n과 LangGraph로 회사에서 쓸 수 있는 AI 에이전트 만들기
+# 회사에서 바로 쓰는 업무자동화 AI 에이전트 (w. n8n, LangGraph)
 
-이 저장소는 **n8n과 LangGraph로 회사에서 쓸 수 있는 AI 에이전트 만들기** 강의의 소스코드와 실습 자료를 포함하고 있습니다.
+이 저장소는 [**회사에서 바로 쓰는 업무자동화 AI 에이전트 (w. n8n, LangGraph)**](https://inf.run/kRHJy) 강의의 소스코드와 실습 자료를 포함하고 있습니다.
 
 ## 📚 강의 개요
 
@@ -67,8 +67,8 @@ agent-use-cases/
 │   ├── 17. Workflow -> Agent 전환하기.ipynb
 │   ├── 24. MCP를 활용한 코드리뷰 에이전트 생성하기.ipynb
 │   ├── 25. OpenAI Whisper를 활용한 영상 요약.ipynb
-│   ├── 26. YouTube 영상 요약하기.ipynb
-│   └── 27. Notion MCP 활용으로 영상 요약 내용 저장하기.ipynb
+│   ├── 26. Notion MCP 활용으로 영상 요약 내용 저장하기.ipynb
+│   └── 27. YouTube 영상 요약하기.ipynb
 │
 ├── 🐍 Python 실습 파일
 │   └── 9. n8n API와 Streamlit으로 만드는 이메일 작성 봇.py
